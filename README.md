@@ -15,8 +15,8 @@ tresCapasPhp
      <li> Tiene un grado de interdependencia entre sí.</li>
      </ul>
      
-
-     # Referencias.
+![Imagen de unas nubes](/img/nubes.jpeg)
+# Referencias.
 
 [1]: https://es.wikipedia.org/wiki/SOLID 
 
