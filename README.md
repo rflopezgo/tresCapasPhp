@@ -13,12 +13,11 @@ tresCapasPhp
 	 <li>NO se recomienda que el código php, renderize la capa de vista.</li> 
 	 <li> **NO** cumple con el principio de responsabilidad única [1].</li>
      </ul>
-
-     Enlace a una [1]
-
-[1]: https://https://es.wikipedia.org/wiki/SOLID/
+     
 
      # Referencias.
+
+[1]: https://es.wikipedia.org/wiki/SOLID 
 
      [1]: Ingeniería de software.
      Disponible en:<https://https://es.wikipedia.org/wiki/SOLID/> "Título"
