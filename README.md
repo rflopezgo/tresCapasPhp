@@ -15,7 +15,8 @@ tresCapasPhp
      <li> Tiene un grado de interdependencia entre sí.</li>
      </ul>
      
-![Imagen de unas nubes](/img/nubes.jpeg "Título del enlace")
+![Imagen de unas nubes](/img/nubes.jpeg "nubes")
+Figura 1. Cumulus nimbus.
 # Referencias.
 
 [1]: https://es.wikipedia.org/wiki/SOLID 
