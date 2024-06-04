@@ -13,7 +13,6 @@ tresCapasPhp
 	 <li> **NO** cumple con el principio de responsabilidad única [1].
      </li>
      <li> Tiene un grado de interdependencia entre sí.</li>
-     <li>
      </ul>
      
 
