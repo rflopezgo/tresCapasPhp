@@ -11,7 +11,7 @@ tresCapasPhp
      <ul> 
 	 <li> NO es apropiado para aplicaciones medianas a grandes.</li> 
 	 <li>NO se recomienda que el código php, renderize la capa de vista.</li> 
-	 <li> **NO** cumple con el principio de responsabilidad única [1].</li>
+	 <li> **NO** cumple con el principio de responsabilidad única[[[1]].</li>
      </ul>
      
 
