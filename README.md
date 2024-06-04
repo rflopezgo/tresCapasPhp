@@ -16,7 +16,7 @@ tresCapasPhp
 
      Enlace a una [1]
 
-[1]: https://dom.tld
+[1]: https://https://es.wikipedia.org/wiki/SOLID/
 
      # Referencias.
 
