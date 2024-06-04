@@ -14,7 +14,14 @@ tresCapasPhp
 	 <li> **NO** cumple con el principio de responsabilidad única [1].</li>
      </ul>
 
+     Enlace a una [1]
+
+[1]: https://dom.tld
+
      # Referencias.
-     [1](https://https://es.wikipedia.org/wiki/SOLID/ "Ingeniería de software. SOLID").
+
+     [1]: Ingeniería de software.
+     Disponible en:<https://https://es.wikipedia.org/wiki/SOLID/> "Título"
+     Consultado:04Jun24.
 
 
