@@ -1,0 +1,37 @@
+
+submodulo
+	S1
+actividadClave
+	Configura entornos de desarrollo con frameworks.
+
+desarrolloCompetencia
+
+	Diseña la aplicación utilizando frameworks de acuerdo con los requerimientos del proyecto, identificando atributos de la arquitectura de software, considerando las interacciones entre entidades, respetando la lógica de negocio, trabajando de forma autónoma o colaborativa, asumiendo una postura crítica y constructiva. 
+	Codifica los distintos componentes de la aplicación, considerando el diseño del proyecto, los modelos de datos, controladores, vistas y lógica de negocio; empleando un pensamiento lógico y matemático, documentando el código fuente, siguiendo convenciones del lenguaje de programación, trabajando en forma creativa y autónoma o colaborativa. 
+	Ejecuta pruebas de código para detectar posibles errores o problemas, considerando pruebas unitarias, pruebas de integración y depuración del código; optimizando el rendimiento en tiempos de ejecución (eficiencia energética), resolviendo problemas, adoptando una actitud proactiva y reportando resultados a su jefe inmediato.
+
+producto
+	El desarrollo de los módulos acorde a los requerimientos del proyecto / Rúbrica.
+	
+desempeno
+
+	no aplica.
+	
+	
+	
+Insertar valores al atributo
+		Seleccionar del árbol de base de datos
+			m2/submodulo_uno/columnas
+		Del menu superior seleccionar Insertar
+		Actualizar valor de cada atributo
+		
+Editar valores del atributo
+		Seleccionar del árbol de base de datos
+			m2/submodulo_uno/columnas
+
+			[*]Editar Copiar Borrar
+		
+		
+Visualizar valores de los atributos.
+
+

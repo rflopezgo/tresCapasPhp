@@ -13,6 +13,7 @@ $result = $mysqli->query($query);
 /*capa vista*/
 /* fetch associative array */
 while ($row = $result->fetch_assoc()) {
+	echo"</br>";
 	printf("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░");
 	echo"</br>";
 	printf("MÓDULO II. DESARROLLA SOFTWARE CON HERRAMIENTAS ORIENTADAS A LA PRODUCTIVIDAD");
@@ -20,19 +21,16 @@ while ($row = $result->fetch_assoc()) {
 	printf("SUBMODULO: %s",$row["submodulo"]);
 	echo"</br>";
 	printf("╚");
-	printf("ACTIVIDAD CLAVE: %s",$row["acttividad_clave"]);
+	printf("ACTIVIDAD CLAVE: %s",$row["actividadClave"]);
 	echo"</br>";
 	printf("╚");
-	printf("DESARROLLO DE COMPETENCIA: %s",$row["desarrollo_competencia"]);
+	printf("DESARROLLO DE COMPETENCIA: %s",$row["desarrolloCompetencia"]);
 	echo"</br>";
 	printf("╚");
 	printf("PRODUCTO: %s",$row["producto"]);
 	echo"</br>";
 	printf("╚");
 	printf("DESEMPEÑO: %s",$row["desempeno"]);
-	echo"</br>";
-	printf("╚");
-	printf("INSTRUMENTO DE EVALUACIÓN: %s",$row["instrumento_evaluacion"]);
 	echo"</br>";
 	echo"</br>";
 }

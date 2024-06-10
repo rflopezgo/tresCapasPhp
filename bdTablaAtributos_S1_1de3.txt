@@ -1,0 +1,41 @@
+
+submodulo
+	S1
+actividadClave
+
+	Configura entornos de desarrollo con frameworks.
+
+desarrolloCompetencia 
+
+	Utiliza frameworks en el desarrollo de un software,
+	identificando sus componentes y el proceso de
+	integración al proyecto, atendiendo a la versión del
+	sistema operativo, asumiendo una postura crítica,
+	procurando la eficiencia de los procesos,
+	trabajando de forma autónoma o colaborativa.
+	
+producto
+	El desarrollo de los módulos acorde a los requerimientos
+	del proyecto / Rúbrica.	
+	
+desempeno		
+	La configuración del IDE atendiendo a los requerimientos 
+	para el desarrollo del proyecto / Lista de cotejo.
+	
+	
+Insertar valores al atributo
+		Seleccionar del árbol de base de datos
+			m2/submodulo_uno/columnas
+		Del menu superior seleccionar Insertar
+		Actualizar valor de cada atributo
+		
+Editar valores del atributo
+		Seleccionar del árbol de base de datos
+			m2/submodulo_uno/columnas
+
+			[*]Editar Copiar Borrar
+		
+		
+Visualizar valores de los atributos.
+
+
