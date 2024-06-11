@@ -28,7 +28,7 @@ Tiene las siguientes prácticas de desarrollo:
 	 <li> **NO** cumple con el principio de responsabilidad única [1].
      </ul>
      
-![capasModeloVistaControlador](/img/capasModeloVistaControlador.png "modelo capas")
+![capasModeloVistaControlador](/img/capasModeloVistaControlador.jpg "modelo capas")
 Figura 1. Capas en aplicación web.
 
 # Glosario. 
