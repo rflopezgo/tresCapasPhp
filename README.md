@@ -6,14 +6,18 @@ desarrollada en capas y codificada en **lenguaje php**.
 tresCapasPhp
 ├── credenciales.php
 └── index.php
-		├─modelo
-		├─controlador
-		└─vista
+	├─modelo
+	├─controlador
+	└─vista
+Diagrama 1. Modelo por capas.
 ```
 
 # Desarrollo
-Éste tipo de codificación es una práctica frecuente en aplicaciones 
-básicas y, o sencillas. 
+Una aplicación web desarrollada por capas codificada con un mismo lenguaje 
+y con distintas responsabilidades y fuertemente acopladas es una práctica 
+frecuente en aplicaciones básicas y, o sencillas, como se muestra en el 
+Diagrama 1.
+
 Tiene las siguientes prácticas de desarrollo:
      <ul> 
 	 </li>Muestra como vincular un archivo de credenciales de acceso 
