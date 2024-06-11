@@ -20,8 +20,8 @@ Diagrama 1.
 
 Tiene las siguientes prácticas de desarrollo:
      <ul> 
-	 </li>Muestra como vincular un archivo de credenciales de acceso 
-		  a una base de datos, con un grado de interdependencia al código Php.
+	 </li> Muestra como vincular un archivo de credenciales de acceso 
+		   a una base de datos, con un grado de interdependencia al código Php.</li>
      <li> Tiene un grado de interdependencia entre sí.</li>
 	 <li> **NO** es apropiado para aplicaciones medianas a grandes.</li> 
 	 <li> **NO** se recomienda que el código php, renderize la capa de vista.</li> 
@@ -29,6 +29,7 @@ Tiene las siguientes prácticas de desarrollo:
      </ul>
      
 ![capasModeloVistaControlador](/img/capasModeloVistaControlador.jpg "modelo capas")
+
 Figura 1. Capas en aplicación web.
 
 # Glosario. 
