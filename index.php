@@ -5,10 +5,10 @@ codificadas en Php*/
 /*capa modelo*/
 require_once("./credenciales.php");
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
-$mysqli = new mysqli($localhost, $my_user, $my_password, $my_db);
+$conn = new mysqli($localhost, $my_user, $my_password, $my_db);
 
 /*capa controlador*/
-$result = $mysqli->query($query);
+$result = $conn->query($query);
 
 /*capa vista*/
 /* fetch associative array */

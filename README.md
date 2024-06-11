@@ -14,7 +14,7 @@ Diagrama 1. Modelo por capas.
 
 # Desarrollo
 Una aplicación web desarrollada por capas codificada con un mismo lenguaje 
-y con distintas responsabilidades y fuertemente acopladas es una práctica 
+con distintas responsabilidades y fuertemente acopladas es una práctica 
 frecuente en aplicaciones básicas y, o sencillas, como se muestra en el 
 Diagrama 1.
 
@@ -28,7 +28,7 @@ Tiene las siguientes prácticas de desarrollo:
 	 <li> **NO** cumple con el principio de responsabilidad única [1].
      </ul>
      
-![Imagen de unas nubes](/img/nubes.jpeg "nubes")
+![capasModeloVistaControlador](/img/capasModeloVistaControlador.jpeg "nubes")
 Figura 1. Cumulus nimbus.
 
 # Glosario. 
