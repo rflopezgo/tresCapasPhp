@@ -28,8 +28,8 @@ Tiene las siguientes prácticas de desarrollo:
 	 <li> **NO** cumple con el principio de responsabilidad única [1].
      </ul>
      
-![capasModeloVistaControlador](/img/capasModeloVistaControlador.jpeg "nubes")
-Figura 1. Cumulus nimbus.
+![capasModeloVistaControlador](/img/capasModeloVistaControlador.png "modelo capas")
+Figura 1. Capas en aplicación web.
 
 # Glosario. 
 <ol>
