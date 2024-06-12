@@ -20,12 +20,13 @@ Diagrama 1.
 
 Tiene las siguientes prácticas de desarrollo:
      <ul> 
-	 </li> Muestra como vincular un archivo de credenciales de acceso 
+	 <li> 1. Muestra como vincular un archivo de credenciales de acceso 
 		   a una base de datos, con un grado de interdependencia al código Php.</li>
-     <li> Tiene un grado de interdependencia entre sí.</li>
-	 <li> **NO** es apropiado para aplicaciones medianas a grandes.</li> 
-	 <li> **NO** se recomienda que el código php, renderize la capa de vista.</li> 
-	 <li> **NO** cumple con el principio de responsabilidad única [1].
+     <li> 2. Tiene un grado de interdependencia entre sí.</li>
+	 <li> 3. **NO** es apropiado para aplicaciones medianas a grandes.</li> 
+	 <li> 4. **NO** se recomienda que el código php, renderize la capa de vista.</li> 
+	 <li> 5. **NO** cumple con el principio de responsabilidad única [1].
+	 <li> 5. **NO** cumple con el principio de responsabilidad única [1].
      </ul>
      
 ![capasModeloVistaControlador](/img/capasModeloVistaControlador.jpg "modelo capas")
