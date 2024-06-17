@@ -58,8 +58,8 @@ Tabla 1. Objetos tipo request.
 
 # Instalación.
 
-El Diagrama 2 mustra la ruta lógica de instalación de siguiente proyecto
-[descargar]:https://github.com/miRepositorioGit/tresCapasPhp/archive/refs/heads/main.zip
+El Diagrama 2, mustra la ruta lógica de instalación local del proyecto:
+https://github.com/miRepositorioGit/tresCapasPhp/archive/refs/heads/main.zip
 
 
 
