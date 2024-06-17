@@ -75,6 +75,8 @@ Tabla 1. Objetos tipo request.
      [1]: Ingeniería de software.
      Disponible en:<https://https://es.wikipedia.org/wiki/SOLID/> "Título"
      Consultado:04Jun24.
-[2]: 
+	 
+[2]: https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/capas 
+	
 	[2]: Blancarte, O. (2020). Introducción a la arquitectura de Software. 
 	Ciudad de México: Oscar Javier Blancarte Iturral.
