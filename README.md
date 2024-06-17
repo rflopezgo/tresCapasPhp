@@ -57,16 +57,6 @@ datos entre las capas de: vista↔controlador↔modelo. Caracterizado en la Tabl
 Tabla 1. Objetos tipo request.
 </br>
 
-
-# Glosario. 
-<ol>
-<li>Php</li>
-<li>Credenciales de acceso</li>
-<li>capa de código</li>
-<li>Renderizar</li>
-<li>Principio de responsabilidad</li>
-</ol>
-C:\xampp\htdocs\proyectosCb47\tresCapasPhp
 # Instalación.
 
 ```bash
@@ -77,6 +67,16 @@ C:\xampp
 	
 Diagrama 2. Árbol de dependencia.
 ```
+</br>
+
+# Glosario. 
+<ol>
+<li>Php</li>
+<li>Credenciales de acceso</li>
+<li>capa de código</li>
+<li>Renderizar</li>
+<li>Principio de responsabilidad</li>
+</ol>
 </br>
 
 # Referencias.
