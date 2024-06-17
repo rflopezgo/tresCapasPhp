@@ -63,10 +63,10 @@ Tabla 1. Objetos tipo request.
 C:\xampp
 	└──htdocs
 		└─proyectosCb47
-			└─tresCapasPhp
-				├─index.php
-				├─credenciales.php
-				└─submodulo_uno.sql
+				└─tresCapasPhp
+					├─index.php
+					├─credenciales.php
+					└─submodulo_uno.sql
 	
 Diagrama 2. Árbol de dependencia.
 ```
