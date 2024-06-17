@@ -29,7 +29,7 @@ Tiene las siguientes prácticas de desarrollo:
 	 <li> 5. **NO** cumple con el principio de responsabilidad única [1].
      </ul>
      
-![capasModeloVistaControlador](/img/capasModeloVistaControlador.jpg "modelo capas")
+![capasModeloVistaControlador](/img/capasModeloVistaControlador.jpg "modelo en capascon Php")
 
 Figura 1. Capas en aplicación web.
 
