@@ -61,12 +61,12 @@ Tabla 1. Objetos tipo request.
 
 ```bash
 C:\xampp
-	└──htdocs
-		└─proyectosCb47
-			└─tresCapasPhp
-				├─index.php
-				├─credenciales.php
-				└─submodulo_uno.sql
+└──htdocs						← Carpeta global archivos.
+	└─proyectosCb47				← Carpeta de proyectos.
+		└─tresCapasPhp			← Carpeta de aplicación.
+			├─index.php
+			├─credenciales.php
+			└─submodulo_uno.sql
 	
 Diagrama 2. Árbol de dependencia.
 ```
