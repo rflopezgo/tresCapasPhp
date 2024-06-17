@@ -43,9 +43,10 @@ Tiene las siguientes prácticas de desarrollo:
 </br>
 Figura 1. Capas en aplicación web.
 </br>
-Se muestra el la Figura 1. Una petición de un recurso electrónico, integrado por un tercia de elementos 
-constructivos de un direción web.  Así también la iteración entre objetos-Interfaz entre las 
-capas de vista-controlador-modelo. 
+Se muestra en la parte superior de la Figura 1, una petición de un recurso electrónico, integrado por un tercia de elementos 
+constructivos de un direción web. 
+Así también se presenta la iteración entre _objetos_Interfaz_  (conn, result, row[]) entre las 
+interactuando con solicitudes _request_ de datos capas las capas de: vista↔controlador↔modelo. 
 
 
 # Glosario. 
