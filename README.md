@@ -11,7 +11,7 @@ tresCapasPhp
 	└─vista
 Diagrama 1. Modelo por capas.
 ```
-
+</br>
 # Desarrollo.
 Muestra una aplicación web desarrollada por capas, codificada con un mismo lenguaje 
 con distintas responsabilidades y fuertemente acopladas. 
@@ -66,7 +66,18 @@ Tabla 1. Objetos tipo request.
 <li>Renderizar</li>
 <li>Principio de responsabilidad</li>
 </ol>
+C:\xampp\htdocs\proyectosCb47\tresCapasPhp
+# Instalación.
 
+```bash
+C:\xampp
+└──htdocs
+	└─proyectosCb47
+		├─tresCapasPhp
+	
+Diagrama 2. Árbol de dependencia.
+```
+</br>
 
 # Referencias.
 
