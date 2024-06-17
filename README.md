@@ -61,7 +61,7 @@ Tabla 1. Objetos tipo request.
 
 ```bash
 C:\xampp
-└──htdocs						← Carpeta global archivos.
+└──htdocs					← Carpeta global archivos.
 	└─proyectosCb47				← Carpeta de proyectos.
 		└─tresCapasPhp			← Carpeta de aplicación.
 			├─index.php
