@@ -30,9 +30,9 @@ Tiene las siguientes prácticas de desarrollo:
 			 los componentes, memoria, recursos y códigos distribuidos en clases y archivos
 			 en una unidad cohesiva de código.</li>
 	 <li> 3. Su ámbito son escenarios donde existe un sistema informático 
-			 autónomo. Es decir, no existe una dependencia con servicios externos 
-			 para ejecutar su tarea principal; por ejemplo, una computadora embebida
-			 para soporte de respiración asistida, un sistema de inyección de 
+			 autónomo. Es decir, no existe una dependencia con servicios externos, 
+			 para ejecutar su tarea principal; por ejemplo, una _computadora embebida_
+			 para soporte de respiración asistida, un _sistema de inyección electrónico_ de 
 			 combustible en un vehiculo. Su ámbito de operación es por sí 
 			 mismo y no depende de nadie.</li>		
 	 <li> 9. </li> 			
