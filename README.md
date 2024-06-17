@@ -42,6 +42,7 @@ Tiene las siguientes prácticas de desarrollo:
 ![capasModeloVistaControlador](/img/capasModeloVistaControlador.jpg "modelo en capascon Php")
 </br>
 Figura 1. Capas en aplicación web.
+</br>
 Se muestra el la Figura 1. Una petición de un recurso electrónico, integrado por un tercia de elementos 
 constructivos de un direción web.  Así también la iteración entre objetos-Interfaz entre las 
 capas de vista-controlador-modelo. 
