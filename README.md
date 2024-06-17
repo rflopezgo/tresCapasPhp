@@ -37,14 +37,15 @@ Tiene las siguientes prácticas de desarrollo:
 	 <li> 6. **NO** cumple con el principio de _responsabilidad única_ [1]. </li>			 
 	 <li> 7. El método _divide y venceras_  es difícil de aplicar, dado el nivel de 
 			 complegidad y amplitud del proyecto. </li>
-     <li> </li>
-	 <li> </li> 			
-	 <li> </li> 			
      </ul>
      
 ![capasModeloVistaControlador](/img/capasModeloVistaControlador.jpg "modelo en capascon Php")
-
+</br>
 Figura 1. Capas en aplicación web.
+Se muestra el la Figura 1. Una petición de un recurso electrónico, integrado por un tercia de elementos 
+constructivos de un direción web.  Así también la iteración entre objetos-Interfaz entre las 
+capas de vista-controlador-modelo. 
+
 
 # Glosario. 
 <ol>
