@@ -41,8 +41,8 @@ Tiene las siguientes prácticas de desarrollo:
      
 ![capasModeloVistaControlador](/img/capasModeloVistaControlador.jpg "modelo en capascon Php")
 </br>
-Figura 1. Capas en aplicación web.
-</br></br>
+					Figura 1. Capas en aplicación web.
+</br>
 Se muestra en la parte superior de la Figura 1, una petición de un recurso electrónico, integrado por un tercia de elementos 
 constructivos de un direción web. 
 Así también, se presenta la iteración entre _objetos_Interfaz_  (conn, result, row[]), interactuando solicitudes _request_ de 
@@ -54,7 +54,7 @@ datos entre las capas de: vista↔controlador↔modelo. Caracterizado en la Tabl
 | result         | Retorna un arreglo asociativo de registros de una base de datos.    | 
 | row[]          | Es un deserealizador de objetos. | 
 
-Tabla 1. Objetos tipo request.
+					Tabla 1. Objetos tipo request.
 </br>
 
 # Instalación.
@@ -68,7 +68,7 @@ C:\xampp
 			├─credenciales.php
 			└─submodulo_uno.sql
 	
-				Diagrama 2. Árbol de dependencia.
+					Diagrama 2. Árbol de dependencia.
 ```
 </br>
 
