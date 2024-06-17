@@ -68,7 +68,7 @@ C:\xampp
 			├─credenciales.php
 			└─submodulo_uno.sql
 	
-Diagrama 2. Árbol de dependencia.
+				Diagrama 2. Árbol de dependencia.
 ```
 </br>
 
