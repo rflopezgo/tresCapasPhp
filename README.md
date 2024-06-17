@@ -23,14 +23,14 @@ Tiene las siguientes prácticas de desarrollo:
      <ul> 
 	 <li> 1. La aplicación es construida en sus elementos con la misma tecnología de lenguaje.</li>
 	 <li> 2. La aplicación principal es _autosuficiente_, contiene y comparte 
-			 los componentes, memoria, recursos y códigos distribuidos en clases y archivos
+			 los componentes de: memoria, recursos y códigos distribuidos en clases y, o archivos
 			 en una unidad cohesiva de código.</li>
 	 <li> 3. Su ámbito de utilidad es en escenarios donde existe un _sistema informático 
 			 autónomo_. Es decir, no existe una dependencia con servicios externos, 
 			 para ejecutar su tarea principal; por ejemplo, una _computadora embebida_
 			 para soporte de respiración asistida, un _sistema de inyección electrónico_ de 
-			 combustible en un vehiculo. Es suma su ámbito de operación es por sí 
-			 mismo y no depende de nadie al ejecutar su tarea.</li>	
+			 combustible en un vehículo. Es suma, su ámbito de operación es por 
+			 **sí mismo** y no depende de nadie al ejecutar su tarea.</li>	
 	 <li> 4. **NO** es apropiado para aplicaciones medianas a grandes,
 			 donde conviven otras tecnológias de software.</li> 
 	 <li> 5. **NO** se recomienda que una tecnología de código, renderize la interfaz de usuario.</li> 
@@ -42,7 +42,7 @@ Tiene las siguientes prácticas de desarrollo:
 ![capasModeloVistaControlador](/img/capasModeloVistaControlador.jpg "modelo en capascon Php")
 </br>
 Figura 1. Capas en aplicación web.
-</br>
+</br></br>
 Se muestra en la parte superior de la Figura 1, una petición de un recurso electrónico, integrado por un tercia de elementos 
 constructivos de un direción web. 
 Así también, se presenta la iteración entre _objetos_Interfaz_  (conn, result, row[]), interactuando solicitudes _request_ de datos entre las capas de: vista↔controlador↔modelo.  
