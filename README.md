@@ -36,7 +36,7 @@ Tiene las siguientes prácticas de desarrollo:
 	 <li> 5. **NO** se recomienda que una tecnología de código, renderize la interfaz de usuario.</li> 
 	 <li> 6. **NO** cumple con el principio de _responsabilidad única_ [1]. </li>			 
 	 <li> 7. El método _divide y venceras_  es difícil de aplicar, dado el nivel de 
-			 complegidad y amplitud del proyecto. </li>
+			 complegidad y amplitud del proyecto [2]. </li>
      </ul>
      
 ![capasModeloVistaControlador](/img/capasModeloVistaControlador.jpg "modelo en capascon Php")
@@ -45,7 +45,8 @@ Figura 1. Capas en aplicación web.
 </br></br>
 Se muestra en la parte superior de la Figura 1, una petición de un recurso electrónico, integrado por un tercia de elementos 
 constructivos de un direción web. 
-Así también, se presenta la iteración entre _objetos_Interfaz_  (conn, result, row[]), interactuando solicitudes _request_ de datos entre las capas de: vista↔controlador↔modelo.  
+Así también, se presenta la iteración entre _objetos_Interfaz_  (conn, result, row[]), interactuando solicitudes _request_ de 
+datos entre las capas de: vista↔controlador↔modelo. Caracterizado en la Tabla 1.
 
 | _objetos_Interfaz_ | Caracterización | 
 |:-------------- |:----------:| 
@@ -74,5 +75,6 @@ Tabla 1. Objetos tipo request.
      [1]: Ingeniería de software.
      Disponible en:<https://https://es.wikipedia.org/wiki/SOLID/> "Título"
      Consultado:04Jun24.
-
-
+[2]: 
+	[2]: Blancarte, O. (2020). Introducción a la arquitectura de Software. 
+	Ciudad de México: Oscar Javier Blancarte Iturral.
