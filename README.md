@@ -45,15 +45,14 @@ Figura 1. Capas en aplicación web.
 </br>
 Se muestra en la parte superior de la Figura 1, una petición de un recurso electrónico, integrado por un tercia de elementos 
 constructivos de un direción web. 
-Así también, se presenta la iteración entre _objetos_Interfaz_  (conn, result, row[])  
-interactuando solicitudes _request_ de datos entre las capas de: vista↔controlador↔modelo.  
+Así también, se presenta la iteración entre _objetos_Interfaz_  (conn, result, row[]), interactuando solicitudes _request_ de datos entre las capas de: vista↔controlador↔modelo.  
 
 | _objetos_Interfaz_ | Caracterización | 
 |:-------------- |:----------:| 
 | conn           | Es un objeto del tipo mysqli. Vincula una conexión al servidor MySQL.| 
 | result         | Retorna un arreglo asociativo de registros de una base de datos.    | 
 | row[]          | Es un deserealizador de objetos. | 
-</br>
+
 Tabla 1. Objetos tipo request.
 </br>
 
