@@ -53,10 +53,15 @@ datos entre las capas de: vista↔controlador↔modelo. Caracterizado en la Tabl
 | conn           | Es un objeto del tipo mysqli. Vincula una conexión al servidor MySQL.| 
 | result         | Retorna un arreglo asociativo de registros de una base de datos.    | 
 | row[]          | Es un deserealizador de objetos. | 
-					Tabla 1. Objetos tipo request.
+Tabla 1. Objetos tipo request.
 </br>
 
 # Instalación.
+
+El Diagrama 2 mustra la ruta lógica de instalación de siguiente proyecto
+[descargar]:https://github.com/miRepositorioGit/tresCapasPhp/archive/refs/heads/main.zip
+
+
 
 ```bash
 C:\xampp
@@ -67,7 +72,7 @@ C:\xampp
 			├─credenciales.php
 			└─submodulo_uno.sql
 	
-					Diagrama 2. Árbol de dependencia.
+Diagrama 2. Árbol de dependencia.
 ```
 </br>
 
