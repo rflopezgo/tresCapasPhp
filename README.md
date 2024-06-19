@@ -12,7 +12,9 @@ tresCapasPhp
 Diagrama 1. Estructura monolítica.
 ```
 </br>
+
 # Desarrollo.
+
 Muestra una aplicación web desarrollada por capas contenidas monolíticamente y codificada en Php 
 con distintas responsabilidades y fuertemente acopladas. 
 Una estructura de código *monolítca*, es una práctica 
