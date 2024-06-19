@@ -9,23 +9,23 @@ tresCapasPhp
 	├─modelo
 	├─controlador
 	└─vista
-Diagrama 1. Modelo por capas.
+Diagrama 1. Estructura monolítica.
 ```
 </br>
 # Desarrollo.
-Muestra una aplicación web desarrollada por capas, codificada con un mismo lenguaje 
+Muestra una aplicación web desarrollada por capas contenidas monolíticamente y codificada en Php 
 con distintas responsabilidades y fuertemente acopladas. 
-Es una estructura de código *monolítco*. Es una práctica 
+Una estructura de código *monolítca*, es una práctica 
 recurrente en aplicaciones básicas y, o sencillas, como se muestra en el 
 Diagrama 1.
 
-Tiene las siguientes prácticas de desarrollo:
+Tiene las siguientes prácticas de desarrollo de software:
      <ul> 
 	 <li> 1. La aplicación es construida en sus elementos con la misma tecnología de lenguaje.</li>
 	 <li> 2. La aplicación principal es _autosuficiente_, contiene y comparte 
 			 los componentes de: memoria, recursos y códigos distribuidos en clases y, o archivos
 			 en una unidad cohesiva de código.</li>
-	 <li> 3. Su ámbito de utilidad es en escenarios donde existe un _sistema informático 
+	 <li> 3. Su ámbito de utilidad son escenarios donde existe un _sistema informático 
 			 autónomo_. Es decir, no existe una dependencia con servicios externos, 
 			 para ejecutar su tarea principal; por ejemplo, una _computadora embebida_
 			 para soporte de respiración asistida, un _sistema de inyección electrónico_ de 
@@ -33,17 +33,17 @@ Tiene las siguientes prácticas de desarrollo:
 			 **sí mismo** y no depende de nadie al ejecutar su tarea.</li>	
 	 <li> 4. **NO** es apropiado para aplicaciones medianas a grandes,
 			 donde conviven otras tecnológias de software.</li> 
-	 <li> 5. **NO** se recomienda que una tecnología de código, renderize la interfaz de usuario.</li> 
+	 <li> 5. **NO** se recomienda que una misma tecnología de código, renderize la interfaz de usuario.</li> 
 	 <li> 6. **NO** cumple con el principio de _responsabilidad única_ [1]. </li>			 
 	 <li> 7. El método _divide y venceras_  es difícil de aplicar, dado el nivel de 
-			 complegidad y amplitud del proyecto [2]. </li>
+			 acoplamiento y amplitud del proyecto [2]. </li>
      </ul>
      
 ![capasModeloVistaControlador](/img/capasModeloVistaControlador.jpg "modelo en capascon Php")
 </br>
 					Figura 1. Capas en aplicación web.
 </br></br>
-Se muestra en la parte superior de la Figura 1, una petición de un recurso electrónico, integrado por un tercia de elementos 
+Se muestra que en la parte superior de la Figura 1, existe una petición de un recurso electrónico, integrada por un tercia de elementos 
 constructivos de un direción web. 
 Así también, se presenta la iteración entre _objetos_Interfaz_  (conn, result, row[]), interactuando solicitudes _request_ de 
 datos entre las capas de: vista↔controlador↔modelo. Caracterizado en la Tabla 1.
@@ -61,12 +61,12 @@ Tabla 1. Objetos tipo request.
 El Diagrama 2, mustra la ruta lógica de instalación local del proyecto:
 https://github.com/miRepositorioGit/tresCapasPhp/archive/refs/heads/main.zip
 
-
+Se recomienda dar lectura al documento 
 
 ```bash
 C:\xampp
 └──htdocs					← Carpeta global archivos.
-	└─proyectosCb47				← Carpeta de proyectos.
+	└─proyectos				← Carpeta de proyectos.
 		└─tresCapasPhp			← Carpeta de aplicación.
 			├─index.php
 			├─credenciales.php
