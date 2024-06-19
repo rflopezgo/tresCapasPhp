@@ -58,10 +58,14 @@ Tabla 1. Objetos tipo request.
 
 # Instalación.
 
+Se recomienda dar lectura al documento de instalación y configuración del software para desarrollo de aplicaciones web
+XAMPP.   
+
+https://github.com/miRepositorioGit/tresCapasPhp/blob/main/Referencias/instalacionConfiguracionXampp_V120.pdf
+
 El Diagrama 2, mustra la ruta lógica de instalación local del proyecto:
 https://github.com/miRepositorioGit/tresCapasPhp/archive/refs/heads/main.zip
 
-Se recomienda dar lectura al documento 
 
 ```bash
 C:\xampp
