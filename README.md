@@ -81,14 +81,9 @@ Diagrama 2. Árbol de dependencia.
 </br>
 
 # Glosario. 
-<ol>
-<li>Php</li>
-<li>Credenciales de acceso</li>
-<li>capa de código</li>
-<li>Renderizar</li>
-<li>Principio de responsabilidad</li>
-</ol>
-</br>
+
+Actividad.  Desarrollar el contenido de un glosario de palabras técnicas y un resumen de las mismas.
+
 
 # Referencias.
 
