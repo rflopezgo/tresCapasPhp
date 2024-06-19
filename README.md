@@ -83,7 +83,7 @@ Diagrama 2. Árbol de dependencia.
 # Glosario. 
 
 Actividad.  Desarrollar el contenido de un glosario de palabras técnicas y un resumen de las mismas.
-
+https://github.com/miRepositorioGit/tresCapasPhp/blob/main/Referencias/palabrasClave.txt
 
 # Referencias.
 
