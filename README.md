@@ -55,6 +55,7 @@ datos entre las capas de: vista↔controlador↔modelo. Caracterizado en la Tabl
 | conn           | Es un objeto del tipo mysql. Vincula una conexión al servidor MySQL.|
 | result         | Retorna un arreglo asociativo de registros de una base de datos.    | 
 | row[]          | Es un deserealizador de objetos. | 
+
 Tabla 1. Objetos tipo request.
 </br>
 
