@@ -41,7 +41,7 @@ Tiene las siguientes prácticas de desarrollo de software:
 			 acoplamiento y amplitud del proyecto [2]. </li>
      </ul>
      
-![capasModeloVistaControlador](/img/capasModeloVistaControlador.png "modelo en capascon Php")
+![capasModeloVistaControlador](/img/capasModeloVistaControlador.jpg "modelo en capascon Php")
 </br>
 					Figura 1. Capas en aplicación web.
 </br></br>
