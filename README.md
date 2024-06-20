@@ -52,7 +52,8 @@ datos entre las capas de: vista↔controlador↔modelo. Caracterizado en la Tabl
 
 | _objetos_Interfaz_ | Caracterización | 
 |:-------------- |:----------:| 
-| conn           | Es un objeto del tipo mysql. Vincula una conexión al servidor MySQL.| 
+| conn           | Es un objeto del tipo mysql. Vincula una conexión al servidor MySQL.|
+|                | _$query = "SELECT * FROM submodulo_uno ORDER BY ID DESC"_  		   |
 | result         | Retorna un arreglo asociativo de registros de una base de datos.    | 
 | row[]          | Es un deserealizador de objetos. | 
 Tabla 1. Objetos tipo request.
