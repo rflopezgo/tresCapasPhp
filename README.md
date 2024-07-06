@@ -56,7 +56,7 @@ datos entre las capas de: vista↔controlador↔modelo. Caracterizado en la Tabl
 | result         | Retorna un arreglo asociativo de registros de una base de datos.    | 
 | row[]          | Es un deserealizador de objetos. | 
 
-Tabla 1. Objetos tipo request.
+Tabla 1. Objetos tipo _request_.
 </br>
 
 # Instalación.

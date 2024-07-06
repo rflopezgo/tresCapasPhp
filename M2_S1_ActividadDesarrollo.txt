@@ -1,0 +1,54 @@
+Configura entornos de desarrollo con frameworks.
+1
+	Utiliza frameworks en el desarrollo de un software, identificando sus componentes y el proceso de 
+	integración al proyecto, atendiendo a la versión del sistema operativo, asumiendo una postura crítica, 
+	procurando la eficiencia de los procesos, trabajando de forma autónoma o colaborativa.
+2	
+	Realiza la configuración de variables de ambiente atendiendo las especificaciones del proyecto, 
+	definiendo las rutas de las bibliotecas instaladas, considerando los módulos y especificaciones para 
+	el funcionamiento del framework, siguiendo las instrucciones de su jefe inmediato y trabajando de 
+	forma autónoma o colaborativa.
+	
+Desempeño
+
+	La configuración del IDE atendiendo a los requerimientos para el desarrollo del proyecto / Lista de cotejo.	
+	
+	
+
+Integra addons al framework para extender funcionalidades.
+3
+	Identifica distintos addons para la integración al framework, considerando las especificaciones del 
+	proyecto, creando directorios o instalando dependencias; asumiendo una postura crítica, 
+	procurando la eficiencia de los procesos y trabajando de forma autónoma o colaborativa.
+4	
+	Ejecuta pruebas de integración de los addons para verificar su funcionamiento, considerando 
+	pruebas unitarias, pruebas de integración y validación de nuevas funcionalidades agregadas; 
+	adoptando una actitud proactiva, trabajando de forma autónoma, procurando la eficiencia de los 
+	procesos y reportando los resultados a su jefe inmediato.
+	
+Desempeño.
+
+	La instalación de bibliotecas externas para la potencialización del 
+	framework, atendiendo los requerimientos para el desarrollo del proyecto / Rúbrica.
+	
+	
+Codifica aplicaciones con frameworks de desarrollo.
+5	
+	Diseña la aplicación utilizando frameworks de acuerdo con los requerimientos del proyecto, 
+	identificando atributos de la arquitectura de software, considerando las interacciones entre 
+	entidades, respetando la lógica de negocio, trabajando de forma autónoma o colaborativa, 
+	asumiendo una postura crítica y constructiva.
+6	
+	Codifica los distintos componentes de la aplicación, considerando el diseño del proyecto, los 
+	modelos de datos, controladores, vistas y lógica de negocio; empleando un pensamiento lógico y 
+	matemático, documentando el código fuente, siguiendo convenciones del lenguaje de 
+	programación, trabajando en forma creativa y autónoma o colaborativa.
+7	
+	Ejecuta pruebas de código para detectar posibles errores o problemas, considerando pruebas 
+	unitarias, pruebas de integración y depuración del código; optimizando el rendimiento en tiempos de
+	ejecución (eficiencia energética), resolviendo problemas, adoptando una actitud proactiva y 
+	reportando resultados a su jefe inmediato.
+	
+Producto.
+
+	El desarrollo de los módulos acorde a los requerimientos del proyecto / Rúbrica.

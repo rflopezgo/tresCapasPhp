@@ -1,0 +1,11 @@
+referencias
+
+Versionado Semántico 2.0.0
+Disponible en:https://semver.org/lang/es/
+Consultado:05jul24
+
+
+Contador de palabras y contador de caracteres
+Disponible en: https://www.contadordepalabras.com/
+Consultado:05jul24 
+
