@@ -5,6 +5,8 @@ versión 1.1.0 actualización de atributos tabla submodulo_dos 04jul24.
 versión 1.0.2 creación de atributos tabla submodulo_dos 04jul24.
 versión 1.0.1 actualización de atributos tabla submodulo_uno 12jun24.
 versión 1.0.0 estado funcional 04jun24.
+versión 0.1.1 creación del repositorio remoto.
+versión 0.1.0 creación del repositorio local.
 */
 
 /*capa modelo se habilitan para renderizar una de dos tablas 
