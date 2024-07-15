@@ -9,7 +9,7 @@ tresCapasPhp
 	├─modelo
 	├─controlador
 	└─vista
-Diagrama 1. Estructura monolítica.
+Diagrama 1. Estructura monolítica..
 ```
 </br>
 
